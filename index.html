@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>annavasof.net</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	<style type="text/css">
+		body {
+			background-color: #000;
+			color: #DDD;
+			font-family: "Verdana", "Helvetica", "Open Sans", Sans, sans-serif;
+			font-size:1.1em;
+		}
+
+        h1 {
+            font-size: 58px;
+            font-weight:normal;
+            margin-bottom:0.5em;
+        }
+
+		#mainwrap {
+			margin:auto;
+			text-align:center;
+			margin-top:80px;
+		}
+
+		#links {
+            position:absolute;
+            margin:auto;
+            width:100%;
+			margin-top:20px;
+			/* text-align:left;*/
+		}
+
+		#links ul {
+            margin:0px;
+            padding: 0px;
+            margin-top:1.1em;
+        }
+
+		#links li {
+            display:inline;
+            margin: 0px;
+        }
+
+        #links li span {
+            display:none;
+            position:absolute;
+            top: 90px;
+            left:0px;
+            width:100%;
+        }
+
+        #links li:hover span {
+            display:block;
+        }
+
+		#links a {
+            padding:0px;
+            margin:8px;
+        }
+
+		#links a img {
+			border:none;
+            width: 30px;
+		}
+
+		a {
+			margin:12px;
+			color:white;
+			text-decoration:none;
+			position:relative;
+		}
+
+		a {
+            outline:none;
+        }
+
+		a:active img {
+            outline:1px solid white;
+        }
+
+        a#mail:hover, a#phone:hover {
+            text-decoration: underline;
+        }
+
+        /*
+        @media only screen and (max-width: 550px) {
+            body {
+			    font-size:1.2em;
+            }
+
+            #links ul {
+                margin:auto;
+            }
+
+            #links li {
+                display:block;
+                text-align:left;
+            }
+
+            #links li span,  #links li:hover span {
+                position:unset;
+                display:inline;
+            }
+        }
+        */
+
+	</style>
+    <script type="text/javascript">
+        function fillData() {
+            var mail = window.atob("YW5uYXJ0b0BnbWFpbC5jb20=")
+            document.getElementById('mail').setAttribute("href", "mailto:" + mail);
+            document.getElementById('mail').innerHTML = mail;
+
+            var phone = window.atob("KzQzIDY1MCA0NDAgNzMgNDI=")
+            var phone_uri = window.atob("KzQzNjUwNDQwNzM0Mg==")
+            document.getElementById('phone').setAttribute("href", "tel:" + phone_uri);
+            document.getElementById('phone').innerHTML = phone;
+        }
+    </script>
+</head>
+<body onLoad="fillData()">
+	<div id="mainwrap">
+        <h1>
+            Anna Vasof
+        </h1>
+        <div>
+            <a id="mail" href=""></a><br/>
+            <a id="phone" href=""></a>
+        </div>
+
+		<div id="links">
+            <ul>
+
+                <li>
+                    <a href="https://www.facebook.com/annavasof/about">
+                        <img src="about.jpg" alt="About"/>
+                    </a>
+                    <span>About</span>
+                </li>
+                <li>
+                    <a href="https://vimeo.com/annavasof">
+                        <img src="vimeo.png" alt="Vimeo"/>
+                    </a>
+                    <span>Selected Works (Vimeo)</span>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/channel/UCSHEF9CFOUhK9lArA2GVzRw">
+                        <img src="things_and_wonders.jpg" alt="Things and Wonders"/>
+                    </a>
+                    <span>Things and Wonders (Youtube)</span>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/channel/UCsnBS_bOZL8RL2u0dtp0ARQ">
+                        <img src="non-stop_stop-motion.jpg" alt="Non-Stop Stop-Motion"/>
+                    </a>
+                    <span>Non-Stop Stop-Motion (Youtube)</span>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/channel/UCQN9UoX4lUc4ir5YJ5Y6W2A">
+                        <img src="mechanisms-of-happiness.jpg" alt="Mechanisms of Happiness"/>
+                    </a>
+                    <span>Mechanisms of Happiness (Youtube)</span>
+                </li>
+                <li>
+                    <a href="https://www.facebook.com/annavasof">
+                        <img src="facebook.png" alt="Facebook"/>
+                    </a>
+                    <span>Facebook</span>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/annavasof/"><img src="instagram.png" alt="Instagram"/></a>
+                    <span>Instagram</span>
+                </li>
+
+            </ul>
+		</div>
+	</div>
+    <div>
+    </div>
+
+</body>
+</html>
