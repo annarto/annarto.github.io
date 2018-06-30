@@ -59,6 +59,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
+* 2018 Diagonale Graz, Austria
 * 2017 Parallel Vienna, Austria
 * 2017 Taichung International Animation Festival, Taichung, Taiwan
 * 2017 Black Noise, Akbank Sanat, Istanbul, Turkey
