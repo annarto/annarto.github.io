@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+    <div class="single-content">
+        <h1>{{ .Title }}</h1>
+        <div class="metadata">
+          {{/*
+
+          {{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
+          {{ if .Params.date }}<h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>{{ end }}
+
+          */}}
+        </div>
+
+        <main>
+        {{ .Content }}
+        </main>
+    </div>
+
+{{ partial "footer.html" . }}

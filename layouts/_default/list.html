@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+{{ partial "taxonomy_menu.html" . }}
+    <div>
+      <h1>{{ .Title }}</h1>
+
+      {{ .Content }}
+
+      <div class="project-list">
+        <ul id="projects">
+          {{ range (where .Data.Pages "Section" "!=" "") }}
+          <li>
+            <div class="list-title"><a href="{{ .URL }}">{{ .Title }}</a></div>
+            <div>
+              <a href="{{ .URL }}">
+                <img src="/project_thumbs/{{ .File.BaseFileName }}.jpg" />
+              </a>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+
+    </div>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,34 @@
+{{- /*
+
+{{ range .Data.Pages.GroupByDate "2006" }}
+<a href="/year/{{ .Key }}">{{ .Key }}</a>
+{{ end }}
+
+Alterantive:
+<li><a href="/category/{{ $key }}">{{ humanize $key }}</a></li>
+
+See also:
+https://discourse.gohugo.io/t/how-to-create-a-taxonomy-menu/10223/3
+
+*/}}
+    <nav class="year">
+      <ul>
+        {{- range .Site.Taxonomies.year.Alphabetical.Reverse }}
+        {{- $currentCategoryUrl := .Name | urlize | printf "%s%s" "/year/" | printf "%s/" }}
+        <li class="{{if eq $.URL $currentCategoryUrl}}active{{end}}">
+            <a href="/year/{{ urlize .Name }}">{{ .Name }}</a>
+        </li>
+        {{- end }}
+      </ul>
+    </nav>
+
+    <nav class="category">
+      <ul>
+        {{- range $name, $value := .Site.Taxonomies.category }}
+        {{- $currentCategoryUrl := $name | urlize | printf "%s%s" "/category/" | printf "%s/" }}
+        <li class="{{if eq $.URL $currentCategoryUrl}}active{{end}}">
+          <a href="/category/{{ urlize $name }}">{{ $name }}</a>
+        </li>
+        {{- end }}
+      </ul>
+    </nav>

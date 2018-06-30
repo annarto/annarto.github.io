@@ -1,0 +1,38 @@
+baseURL = "http://annavasof.net/"
+languageCode = "en-us"
+title = "Anna Vasof"
+
+#defaultLayout = "post"
+
+theme = "xmin"
+#theme = "even"
+#theme = "hugo_theme_pickles"
+
+#pluralizeListTitles = false
+preserveTaxonomyNames = true
+
+# Enable GitInfo feature
+#enableGitInfo:              false
+
+# Build robots.txt file
+enableRobotsTXT = true
+
+# Do not inject generator meta tag on homepage
+disableHugoGeneratorInject = true
+
+# Allows you to disable all page types and will render nothing related to 'kind';
+# values = "page", "home", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
+disableKinds = ["taxonomyTerm"]
+
+# Pagination
+#paginate:                   10
+#paginatePath:               "page"
+
+# maximum number of items in the RSS feed
+#disableRSS:                 false
+#rssLimit:                   15
+
+
+[taxonomies]
+category = "category"
+year = "year"
