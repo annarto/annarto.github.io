@@ -6,24 +6,6 @@
     <title>{{if ne .Title "Home"}}{{ .Title }} | {{end}}{{ .Site.Title }}</title>
     <link rel="stylesheet" href="{{ "/layout/elevator.css" | relURL }}" />
     <link rel="icon" type="image/png" href="/layout/images/favicon.png" />
-    <script type="text/javascript" src="/utils.js"></script>
-    <script type="text/javascript">
-        function onLoad() {
-            {{if eq .Title "Contact" }}unhideFields();{{end}}
-            {{if .IsNode }}randomizeList();{{end}}
-        }
-    </script>
   </head>
 
-  <body class="{{ if .IsNode }}list-page{{else}}single-page{{end}}" onload="onLoad()">
-
-   <input type="checkbox" id="show-menu" role="button">
-   <label for="show-menu" id="show-menu-label" >&#9776;</label>
-    <nav class="main-menu">
-      <a href="/">Home</a>
-      <ul>
-        {{- range .Site.Menus.main }}
-        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-        {{- end }}
-      </ul>
-    </nav>
+  <body class="{{ if .IsNode }}list-page{{else}}single-page{{end}}">

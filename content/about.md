@@ -10,6 +10,7 @@ aliases:     [ node/23 ]
 menu:        [ "main" ]
 ---
 
+
 ![](/images/portrait_photo.jpg)
 
 ## General

@@ -18,11 +18,7 @@ body {
     /*padding:0px;*/
     /*font-family:Trebuchet MS,Arial,Verdana,Arial,sans-serif, Sans;*/
 
-    background: #111;
-
-    background-image:url(images/background.jpg);
-    background-repeat:repeat; /* TODO repeat-y to avoid ugliness for too large windows */
-    background-position:center top;
+    background: #000;
 
     margin-top:0px;
     padding-top:8px;
