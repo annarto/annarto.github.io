@@ -53,6 +53,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Solo Exhibitios
 
+* 2017 Performance H13, Kunstraum Niederoesterreich, Vienna Austria
 * 2017 "Things and Wonders", CHEAPART foundation, Athens, Greece
 * 2016 "Non-Stop Stop-Motion Machines", Asifakeil q21/MQ, Vienna, Austria
 * 2015 "Mechanisms of Happiness", Sammlung Lenikus, Vienna, Austria
@@ -60,7 +61,15 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
-* 2018 Diagonale Graz, Austria
+* 2018 Performance, Mak Museum, Vienna Austria
+*	2018 Photon gallery, exhibition, Vienna Austria
+*	2018 Human, Fotgalerie, exhibition, Vienna, Austria
+*	2018 Tricky Women animation film festival, Vienna, Austria
+*	2018 "MAKE A WISH" (Yoko Ono), exhibition Medien Werkstatt, Vienna, Austria
+*	2018 Understanding Art and Research, exhibition, Dunedin, New Zealand 
+*	2018 Flatpack Film Festival, Birmingham, UK
+*	2018 Donau Festival, exhibition, Krems, Austria
+*	2018 Diagonale, film festival, Graz, Austria
 * 2017 Parallel Vienna, Austria
 * 2017 Taichung International Animation Festival, Taichung, Taiwan
 * 2017 Black Noise, Akbank Sanat, Istanbul, Turkey
