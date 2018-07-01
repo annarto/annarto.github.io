@@ -32,6 +32,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Grants and Awards
 
+* 2018 Peter Wilde Award for Most Technically Innovative Film in Ann Arbor Film
 * 2017 Performancepreis H13
 * 2017 Kunstlerhaus-Hubert Sielecki Preis 2017 for "Things and Wonders 2022"
 * 2016 Hubert Sielecki-Prize for the Austrian Animationsfilm in Tricky Women Festival
