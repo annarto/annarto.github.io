@@ -53,6 +53,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Solo Exhibitios
 
+* 2018 "Behind The Glass" Red Carpet Showroom Metrostation Karlsplatz, Vienna, Austria
 * 2017 Performance H13, Kunstraum Niederoesterreich, Vienna Austria
 * 2017 "Things and Wonders", CHEAPART foundation, Athens, Greece
 * 2016 "Non-Stop Stop-Motion Machines", Asifakeil q21/MQ, Vienna, Austria
