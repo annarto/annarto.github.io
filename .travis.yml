@@ -2,7 +2,7 @@ install:
     - rm -rf public || exit 0
 
 script:
-    - make
+    - PATH=$PATH:bin/ make
 
 # Deploy to GitHub pages
 deploy:
