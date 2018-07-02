@@ -3,7 +3,7 @@
 	url = https://github.com/olOwOlo/hugo-theme-even
 [submodule "themes/xmin"]
 	path = themes/xmin
-	url = git@github.com:yihui/hugo-xmin.git
+	url = https://github.com/yihui/hugo-xmin.git
 [submodule "themes/hugo_theme_pickles"]
 	path = themes/hugo_theme_pickles
-	url = git@github.com:mismith0227/hugo_theme_pickles.git
+	url = https://github.com/mismith0227/hugo_theme_pickles.git
