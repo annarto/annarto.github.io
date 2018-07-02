@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Anna Vasof</title>
+    <link>http://annavasof.net/</link>
+    <description>Recent content in Home on Anna Vasof</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Sep 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://annavasof.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://annavasof.net/about/</link>
+      <pubDate>Fri, 17 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://annavasof.net/about/</guid>
+      <description>General Anna Vasof is an architect and media artist. Born in 1985, she studied architecture at the University of Thessaly (2010) in Greece and Transmedia Art (2014) at the University of Applied Arts in Vienna. Since 2004 her videos and short movies have been presented in several festivals, some of them winning distinctions. She’s currently writing a Ph.D. thesis about an animation technique that she develops and at the same time working on designing and building innovative mechanisms for producing critical and narrative videos, actions and installations.</description>
+    </item>
+    
+  </channel>
+</rss>
