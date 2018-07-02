@@ -11,5 +11,6 @@ deploy:
     keep-history: true
     local_dir: public
     github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+    target-branch: master
     on:
         branch: landing_page_plus
