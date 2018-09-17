@@ -11,6 +11,10 @@
             text-align:justify;
         }
 
+        a {
+            color:#999;
+        }
+
         .photos-hits div h3 {
         }
 
@@ -27,6 +31,39 @@
             margin-bottom:0px;
         }
 
+        h1 {
+            margin-top:0.5em;
+        }
+
+        .links-menu {
+            float:right;
+            line-height:2.2em;
+            font-weight:bolder;
+        }
+
+        .links-menu a {
+            background:#333;
+            padding:0.3em 0.6em;
+            border-radius:0.3em;
+            margin:0.5em 0.2em;
+        }
+
+        .links-menu a:hover {
+            text-decoration:none;
+            background:#555;
+        }
+
+        .links-footer {
+            margin-top:3.0em;
+            text-align:center;
+        }
+
+        .links-footer a {
+            color:#555;
+            margin: 0em 0.6em;
+        }
+
+
         @media screen and (max-width: 500px) {
             .photos-hits div {
                 display:block;
@@ -37,11 +74,24 @@
                 max-width: 100%;
                 display:block;
             }
+
+            .links-menu {
+                float:none;
+                text-align:right;
+            }
         }
 	</style>
+    <script type="text/javascript">
+        function fillData() {
+            var mail = window.atob("YW5uYXJ0b0BnbWFpbC5jb20=")
+            document.getElementById('mail').setAttribute("href", "mailto:" + mail);
+            document.getElementById('mail2').setAttribute("href", "mailto:" + mail);
+            document.getElementById('mail3').setAttribute("href", "mailto:" + mail);
+        }
+    </script>
   </head>
 
-  <body class="single-page">
+  <body class="single-page" onLoad="fillData()">
 
    <input type="checkbox" id="show-menu" role="button">
    <label for="show-menu" id="show-menu-label" >&#9776;</label>
@@ -52,10 +102,24 @@
    -->
 
     <div class="single-content">
+        <div class="links links-menu">
+            <a href="spam_protection_need_javascript_too_see" id="mail">mail</a>
+            <a href="https://annavasof.net/about/">about</a>
+            <a href="https://annavasof.net">website</a>
+            <a href="https://www.facebook.com/annavasof">facebook</a>
+        </div>
+
         <h1>Hitting My Head On The World</h1>
         <h2>Anna Vasof</h2>
 
         <main>
+            <strong>
+                This is a brief preview of an ongoing project. If you would like to be to
+                be informed when the final video is published, please
+                <a href="spam_protection_need_javascript_too_see" id="mail3">send me a short message</a>
+                or follow me on <a href="https://www.facebook.com/annavasof">facebook</a>.
+            </strong>
+
             <p>
                 “Hitting My Head On The World” is a series of experimental
                 video and sound project consisting of more episodes. I visit
@@ -120,22 +184,13 @@
                 </div>
             </div>
 
-            <p>
-                Bio:</br>
-                Anna Vasof is an architect and media artist. Born in 1985, she
-                studied architecture at the University of Thessaly (2010) in
-                Greece and Transmedia Art (2014) at the University of Applied
-                Arts in Vienna. Since 2004 her videos and short movies have
-                been presented in several festivals, some of them winning
-                distinctions.  She’s currently writing a Ph.D. thesis about an
-                animation technique that she develops and at the same time
-                working on designing and building innovative mechanisms for
-                producing critical and narrative videos, actions and
-                installations.
-            </p>
-            <p>
-                <a href="https://annavasof.net">annavasof.net</a>
-            </p>
+            <div class="links links-footer">
+                <a href="spam_protection_need_javascript_too_see" id="mail2">mail</a>
+                <a href="https://annavasof.net/about/">about</a>
+                <a href="https://annavasof.net">website</a>
+                <a href="https://www.facebook.com/annavasof">facebook</a>
+            </div>
+
         </main>
     </div>
     <script type="text/javascript">
