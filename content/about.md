@@ -62,6 +62,12 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
+* 2019 Diametrale, Innsbruck, Ausria
+* 2019 Diagonale, Graz, Austria
+* 2019 Stuttgarter Filmwinter, Stuttgart, Germany
+* 2019 Tricky Women, Vienna, Austria
+* 2019 Vienna Fair, Vienna, Austria
+* 2018 Roboexotica, Vienna, Austria
 * 2018 Performance, Mak Museum, Vienna Austria
 *	2018 Photon gallery, exhibition, Vienna Austria
 *	2018 Human, Fotgalerie, exhibition, Vienna, Austria
