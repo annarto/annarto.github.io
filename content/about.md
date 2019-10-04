@@ -62,6 +62,17 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
+* 2019 Antimatter Film Festival, Victoria, Canada
+* 2019 Screening at Abop Gallery, Asheville, USA
+* 2019 IFF 2019, Saint Petersburg, Russia
+* 2019 BFI London Film Festival, Longon, UK
+* 2019 Duisburger Filmwoche 43, Duisburg, Germany
+* 2019 Exhibition in Musao, Vienna, Austria
+* 2019 Stuck Keys Exhibition Duo Exhibition, Memphis Kunstraum, Linz, Austria
+* 2019 Solo Filmnight at Frameout Festival MQ Vienna, Austria
+* 2019 File Festival, Sao Paolo, Brazil
+* 2019 Non-Stop-Scheiner, Graz, Austria
+* 2019 VIS Vienna Shorts 2019, Vienna, Austria
 * 2019 Diametrale, Innsbruck, Ausria
 * 2019 Diagonale, Graz, Austria
 * 2019 Stuttgarter Filmwinter, Stuttgart, Germany
