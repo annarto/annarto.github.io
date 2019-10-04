@@ -53,6 +53,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Solo Exhibitios
 
+* 2019 Statement #06 | Anna Vasof — Useless Machine, Kunstraum Lakeside, Klagenfurt, Austria
 * 2018 "Behind The Glass" Red Carpet Showroom Metrostation Karlsplatz, Vienna, Austria
 * 2017 Performance H13, Kunstraum Niederoesterreich, Vienna Austria
 * 2017 "Things and Wonders", CHEAPART foundation, Athens, Greece
@@ -72,6 +73,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 * 2019 Solo Filmnight at Frameout Festival MQ Vienna, Austria
 * 2019 File Festival, Sao Paolo, Brazil
 * 2019 Non-Stop-Scheiner, Graz, Austria
+* 2019 SUPER PARADISO exhibition, Museum am Bach, Ruden, Austria
 * 2019 VIS Vienna Shorts 2019, Vienna, Austria
 * 2019 Diametrale, Innsbruck, Ausria
 * 2019 Diagonale, Graz, Austria
