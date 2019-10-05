@@ -214,6 +214,8 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 * 2019 Senior Lecturer at Social design Class and Art Education Classs in University of Applied arts Vienna 
 * 2019 Organising Workshops in Time based Media Art class in Art University Linz
 * 2019 University assistand in Social Design Class in University of Applied arts Vienna
+* 2018 Week Workshop in Animation Department in KHM Cologne
+* 2017 Week Workshop in Post Industrial Design Class in University of Thessaly
 * 2015 (3 months) Organising the technical infrustructure in Transmedia art class in University of Applied arts Vienna
 * 2014 Assisting Summer Workshop of Architectural Design PAW: Felicity/ Dispositives of Survival (University of Thessaly)
 * 2013-2014 Praktikum in Kowanz Atelier
