@@ -71,6 +71,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 * 2019 Exhibition in Musao, Vienna, Austria
 * 2019 Stuck Keys Exhibition Duo Exhibition, Memphis Kunstraum, Linz, Austria
 * 2019 Solo Filmnight at Frameout Festival MQ Vienna, Austria
+* 2019 Installation in Vienna Biennale, Mak Museum, Vienna Austria
 * 2019 File Festival, Sao Paolo, Brazil
 * 2019 Non-Stop-Scheiner, Graz, Austria
 * 2019 SUPER PARADISO exhibition, Museum am Bach, Ruden, Austria
