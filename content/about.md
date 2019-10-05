@@ -199,7 +199,8 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Scholaships
 
-* 2016-2018 Distribution from Sixpackfilm
+* 2018 Pixel Bytes and Film ORF Residency
+* 2016-2019 Distribution from Sixpackfilm
 * 2015 Scholarschip for Video and Media Art from Austrian Cultural Ministry
 * 2015 Scholarship from Austrian Ministry  for Science, Research and Economy
 * 2015 Toronto animated society Residency
