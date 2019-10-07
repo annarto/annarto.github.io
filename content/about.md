@@ -81,6 +81,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 * 2019 Stuttgarter Filmwinter, Stuttgart, Germany
 * 2019 Tricky Women, Vienna, Austria
 * 2019 Vienna Fair, Vienna, Austria
+* FUNKENFLUG 12 Subtile Revolutionen, Performance in Kunstlerhaus, Vienna, Ausria
 * 2018 Roboexotica, Vienna, Austria
 * 2018 Performance, Mak Museum, Vienna Austria
 *	2018 Photon gallery, exhibition, Vienna Austria
