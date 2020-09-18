@@ -67,10 +67,12 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 * 2020 Permanent Exhibition of the object "Handmasc" in House of European History, Brussels, Belgium
 * 2020 Intertonale Artist in Residency, Scheibbs, Austria
+* 2020 "How Illusion is made" film evening from Anna Vasof, Sehsaal, Vienna, Austria
 * 2020 "Futur III"exhibition, Galerie Freihausgasse, Villach, Austria
 * 2020 "Socially Dinstanced"exhibition, Kunsthaus Graz, Graz, Austria
 * 2020 "Die Freiheit der Wahl"exhibition, Museum am Bach, Ruden, Austria
 * 2020 "Frage und Aufbruch" exhibition, Galerie OÖ. Kunstverein, Linz, Austria
+* 2020 "Kaffeenistik" online performance, World Wide Web
 * 2020 Tricky Women, Vienna, Austria
 * 2020 Luxembourg City Film Festival, Luxenbourg
 * 2020 Shortz Film Festival, Novi Sad, Serbia
