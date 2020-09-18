@@ -53,6 +53,8 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Solo Exhibitios
 
+* 2020 "Things and Wonders" | Anna Vasof, Tabor Veliki, Croatia
+* 2020 "Happy Birthday" | Anna Vasof, Forum Stadtpark, Graz, Austria
 * 2019 Statement #06 | Anna Vasof — Useless Machine, Kunstraum Lakeside, Klagenfurt, Austria
 * 2018 "Behind The Glass" Red Carpet Showroom Metrostation Karlsplatz, Vienna, Austria
 * 2017 Performance H13, Kunstraum Niederoesterreich, Vienna Austria
@@ -63,6 +65,18 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
+* 2020 Permanent Exhibition of the object "Handmasc" in House of European History, Brussels, Belgium
+* 2020 Intertonale Artist in Residency, Scheibbs, Austria
+* 2020 "Futur III"exhibition, Galerie Freihausgasse, Villach, Austria
+* 2020 "Socially Dinstanced"exhibition, Kunsthaus Graz, Graz, Austria
+* 2020 "Die Freiheit der Wahl"exhibition, Museum am Bach, Ruden, Austria
+* 2020 "Frage und Aufbruch" exhibition, Galerie OÖ. Kunstverein, Linz, Austria
+* 2020 Tricky Women, Vienna, Austria
+* 2020 Luxembourg City Film Festival, Luxenbourg
+* 2020 Shortz Film Festival, Novi Sad, Serbia
+* 2020 International Women Film Festival of Barcelona, Barcelona, Spain
+* 2020 Lausanne Underground Film & Music Festival, Lausanne, France
+* 2019 DA Fest, Sofia, Bulgaria
 * 2019 Antimatter Film Festival, Victoria, Canada
 * 2019 Screening at Abop Gallery, Asheville, USA
 * 2019 IFF 2019, Saint Petersburg, Russia
@@ -212,7 +226,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Working Experience
 
-* 2019 Senior Lecturer at Social design Class and Art Education Classs in University of Applied arts Vienna 
+* Since 2019 Senior Lecturer at Social design Class and Art Education Classs in University of Applied arts Vienna 
 * 2019 Organising Workshops in Time based Media Art class in Art University Linz
 * 2019 University assistand in Social Design Class in University of Applied arts Vienna
 * 2018 Week Workshop in Animation Department in KHM Cologne
