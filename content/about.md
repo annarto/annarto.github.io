@@ -76,6 +76,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 * 2020 Shortz Film Festival, Novi Sad, Serbia
 * 2020 International Women Film Festival of Barcelona, Barcelona, Spain
 * 2020 Lausanne Underground Film & Music Festival, Lausanne, France
+* 2020 minus20degree art and architecture winter biennale, Flachau, Austria
 * 2019 DA Fest, Sofia, Bulgaria
 * 2019 Antimatter Film Festival, Victoria, Canada
 * 2019 Screening at Abop Gallery, Asheville, USA
