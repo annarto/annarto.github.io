@@ -20,5 +20,14 @@
       <description>General Anna Vasof is an architect and media artist. Born in 1985, she studied architecture at the University of Thessaly (2010) in Greece and Transmedia Art (2014) at the University of Applied Arts in Vienna. Since 2004 her videos and short movies have been presented in several festivals, some of them winning distinctions. She’s currently writing a Ph.D. thesis about an animation technique that she develops and at the same time working on designing and building innovative mechanisms for producing critical and narrative videos, actions and installations.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://annavasof.net/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://annavasof.net/test/</guid>
+      <description>  test   </description>
+    </item>
+    
   </channel>
 </rss>
