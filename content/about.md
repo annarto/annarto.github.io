@@ -15,7 +15,7 @@ menu:        [ "main" ]
 
 ## General
 
-Anna Vasof is an architect and media artist. Born in 1985, she studied architecture at the University of Thessaly (2010) in Greece and Transmedia Art (2014) at the University of Applied Arts in Vienna. Since 2004 her videos and short movies have been presented in several festivals, some of them winning distinctions. She’s currently writing a Ph.D. thesis about an animation technique that she develops and at the same time working on designing and building innovative mechanisms for producing critical and narrative videos, actions and installations.
+Anna Vasof is an architect and media artist. Born in 1985, she studied architecture at the University of Thessaly (2010) in Greece and Transmedia Art (2014) at the University of Applied Arts in Vienna. Since 2004 her videos and short movies have been presented in several festivals, some of them winning distinctions. At She wrote a Ph.D. thesis about an cinematographic technique that she develops and at the same time she is working on designing and building innovative mechanisms for producing critical and narrative videos, actions and installations.
 
 
 ## Artist Statement
@@ -25,9 +25,9 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Education
 
-* 2016 Doctoral Canditate in Artistic Research PhD in Non-Stop Stop-Motion Cinematography (University of Applied Arts Vienna)
-* 2014 Graduation as Media Artist with distinction (mag. art)
-* 2010 Graduation as Architect with distinction (diploma engineer)
+* 2020 Graduation Artistic Research PhD Programme (PhD in Art) with distinction (Dr.phil.)
+* 2014 Graduation as Media Artist with distinction (mag. art.)
+* 2010 Graduation as Architect with distinction (Dipl.-Ing.)
 
 
 ## Grants and Awards
