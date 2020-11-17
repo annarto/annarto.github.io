@@ -32,7 +32,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Grants and Awards
 
-* 2020 Best short film – Experimental in Lausanne underground film & music festival 2020
+* 2020 Best short film – Experimental award in Lausanne underground film & music festival 2020
 * 2018 Peter Wilde Award for Most Technically Innovative Film in Ann Arbor Film
 * 2017 Performancepreis H13
 * 2017 Kunstlerhaus-Hubert Sielecki Preis 2017 for "Things and Wonders 2022"
