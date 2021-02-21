@@ -67,6 +67,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
+* 2021 "Der Angriff der Gegenwart" Exhibition in Universitätsgalerie Vienna, Austria
 * 2020 Permanent Exhibition of the object "Handmasc" in House of European History, Brussels, Belgium
 * 2020 Intertonale Artist in Residency, Scheibbs, Austria
 * 2020 "How Illusion is made" film evening from Anna Vasof, Sehsaal, Vienna, Austria
