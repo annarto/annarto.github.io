@@ -33,7 +33,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 ## Grants and Awards
 
 * 2020 Best short film – Experimental award in Lausanne underground film & music festival 2020
-* 2018 Peter Wilde Award for Most Technically Innovative Film in Ann Arbor Film
+* 2018 Peter Wilde Award for Most Technically Innovative Film in Ann Arbor Film Festival
 * 2017 Performancepreis H13
 * 2017 Kunstlerhaus-Hubert Sielecki Preis 2017 for "Things and Wonders 2022"
 * 2016 Hubert Sielecki-Prize for the Austrian Animationsfilm in Tricky Women Festival
@@ -54,6 +54,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Solo Exhibitios
 
+* 2021 "A Real Exhibition in a Real Space" | Anna Vasof, Untitled Projects Gallery, Vienna
 * 2020 "Things and Wonders" | Anna Vasof, Tabor Veliki, Croatia
 * 2020 "Happy Birthday" | Anna Vasof, Forum Stadtpark, Graz, Austria
 * 2019 Statement #06 | Anna Vasof — Useless Machine, Kunstraum Lakeside, Klagenfurt, Austria
