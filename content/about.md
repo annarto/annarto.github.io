@@ -67,6 +67,9 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
+* 2021 “Issues with my Other half and other stories” Presenation in Footnote Center Belgrade, Serbia
+* 2021 “XX ART Flânerie” festival Vienna, Austria  
+* 2021  Presenation in Footnote Center Belgrade, Serbia
 * 2021 “Klangmanifeste Festival” Vienna, Austria
 * 2021 "Der Angriff der Gegenwart" Exhibition in Universitätsgalerie Vienna, Austria
 * 2020 Permanent Exhibition of the object "Handmasc" in House of European History, Brussels, Belgium
