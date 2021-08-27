@@ -225,6 +225,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Scholaships
 
+* 2021 Residency in iii interdisciplinary practices linking performance, technology and the human senses 
 * 2018 Pixel Bytes and Film ORF Residency
 * 2016-2019 Distribution from Sixpackfilm
 * 2015 Scholarschip for Video and Media Art from Austrian Cultural Ministry
@@ -237,8 +238,8 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Working Experience
 
-* Since 2019 Senior Lecturer at Social design Class and Art Education Classs in University of Applied arts Vienna 
-* 2019 Organising Workshops in Time based Media Art class in Art University Linz
+* Since 2019 till now Senior Lecturer at Social design Class and Art Education Classs in University of Applied arts Vienna 
+* Since 2019 till now Winter Workshops in Time based Media Art class in Art University Linz
 * 2019 University assistand in Social Design Class in University of Applied arts Vienna
 * 2018 Week Workshop in Animation Department in KHM Cologne
 * 2017 Week Workshop in Post Industrial Design Class in University of Thessaly
