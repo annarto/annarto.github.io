@@ -67,6 +67,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
+* 2021 “Zwischen den Dingen” Volkskundenmuseum Wien Vienna Austria 
 * 2021 “Issues with my Other half and other stories” Presenation in Footnote Center Belgrade, Serbia
 * 2021 “XX ART Flânerie” festival Vienna, Austria  
 * 2021  Presenation in Footnote Center Belgrade, Serbia
