@@ -32,8 +32,9 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Grants and Awards
 
-* 2020 Best short film – Experimental award in Lausanne underground film & music festival 2020
-* 2018 Peter Wilde Award for Most Technically Innovative Film in Ann Arbor Film Festival
+* 2021 Special mention “coup de cœur” for "Hitting my Head on the World" in RISC festival 2021
+* 2020 Best short film – Experimental award for "Hitting my Head on the World" in Lausanne underground film & music festival 2020
+* 2018 Peter Wilde Award for Most Technically Innovative Film for When Time Moves faster in Ann Arbor Film Festival 2018
 * 2017 Performancepreis H13
 * 2017 Kunstlerhaus-Hubert Sielecki Preis 2017 for "Things and Wonders 2022"
 * 2016 Hubert Sielecki-Prize for the Austrian Animationsfilm in Tricky Women Festival
@@ -70,7 +71,6 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 * 2021 “Zwischen den Dingen” Volkskundenmuseum Wien Vienna Austria 
 * 2021 “Issues with my Other half and other stories” Presenation in Footnote Center Belgrade, Serbia
 * 2021 “XX ART Flânerie” festival Vienna, Austria  
-* 2021  Presenation in Footnote Center Belgrade, Serbia
 * 2021 “Klangmanifeste Festival” Vienna, Austria
 * 2021 "Der Angriff der Gegenwart" Exhibition in Universitätsgalerie Vienna, Austria
 * 2020 Permanent Exhibition of the object "Handmasc" in House of European History, Brussels, Belgium
