@@ -68,6 +68,9 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
+* 2022 Ann Arbor Film Festival, Michigan, USA
+* 2022 Tricky Women Festival, Vienna Austria
+* 2022 minus20 degree festival, Flachau, Austria
 * 2021 DANUBE DIALOGUES Contemporary Art Festival 2021, Novi Sad, Serbia
 * 2021 “Zwischen den Dingen” Volkskundenmuseum Wien Vienna Austria 
 * 2021 “Issues with my Other half and other stories” Presenation in Footnote Center Belgrade, Serbia
