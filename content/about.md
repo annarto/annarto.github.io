@@ -32,6 +32,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Grants and Awards
 
+* 2022 George Manupelli Founder’s Spirit Award for "Amazon Woman" in Anna Arbor Film Festival 2022
 * 2021 Special mention “coup de cœur” for "Hitting my Head on the World" in RISC festival 2021
 * 2020 Best short film – Experimental award for "Hitting my Head on the World" in Lausanne underground film & music festival 2020
 * 2018 Peter Wilde Award for Most Technically Innovative Film for When Time Moves faster in Ann Arbor Film Festival 2018
