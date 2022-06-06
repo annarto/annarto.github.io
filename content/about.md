@@ -33,6 +33,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 ## Grants and Awards
 
 * 2022 George Manupelli Founder’s Spirit Award for "Amazon Woman" in Anna Arbor Film Festival 2022
+* 2022 Public Award  for "Amazon Woman" in Best Austrian Animation Festival 2022
 * 2021 Special mention “coup de cœur” for "Hitting my Head on the World" in RISC festival 2021
 * 2020 Best short film – Experimental award for "Hitting my Head on the World" in Lausanne underground film & music festival 2020
 * 2018 Peter Wilde Award for Most Technically Innovative Film for When Time Moves faster in Ann Arbor Film Festival 2018
@@ -56,6 +57,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Solo Exhibitios
 
+* 2022 "At Least I have my Phone" | Anna Vasof, Schauraum Angewandte - quartier 21 im MQ , Vienna
 * 2021 "A Real Exhibition in a Real Space" | Anna Vasof, Untitled Projects Gallery, Vienna
 * 2020 "Things and Wonders" | Anna Vasof, Tabor Veliki, Croatia
 * 2020 "Happy Birthday" | Anna Vasof, Forum Stadtpark, Graz, Austria
@@ -69,10 +71,19 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
-* 2022 Ann Arbor Film Festival, Michigan, USA
-* 2022 Tricky Women Festival, Vienna Austria
-* 2022 minus20 degree festival, Flachau, Austria
-* 2021 DANUBE DIALOGUES Contemporary Art Festival 2021, Novi Sad, Serbia
+* 2022 "Animafest Zagreb”, Zagreb, Croatia
+* 2022 "Internationales Trickfilm-Festival Stuttgart”, Stuttgart, Germany
+* 2022 "This is Short 2022”, Online
+* 2022 "25th Gabrovo Biennal", Gabrovo, Bulgaria
+* 2022 "Kurzfilmfestival Hamburg”, Hamburg, Germany
+* 2022 "Vienna Shorts”, Vienna, Ausria
+* 2022 "Flatpack festival” Birmingham, Uk
+* 2022 “Filmtage Oberhausen”, Oberhausen, Germany
+* 2022 “Best Austrian Animation 2022”, Vienna, Austria
+* 2022 “Ann Arbor Film Festival”, Michigan, USA
+* 2022 “Tricky Women Festival”, Vienna Austria
+* 2022 “minus20 degree festival”, Flachau, Austria
+* 2021 “DANUBE DIALOGUES Contemporary Art Festival 2021”, Novi Sad, Serbia
 * 2021 “Zwischen den Dingen” Volkskundenmuseum Wien Vienna Austria 
 * 2021 “Issues with my Other half and other stories” Presenation in Footnote Center Belgrade, Serbia
 * 2021 “XX ART Flânerie” festival Vienna, Austria  
