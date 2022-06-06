@@ -75,6 +75,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 * 2022 "Internationales Trickfilm-Festival Stuttgart”, Stuttgart, Germany
 * 2022 "This is Short 2022”, Online
 * 2022 "25th Gabrovo Biennal", Gabrovo, Bulgaria
+* 2022 "Kopflos sind wir alle" Galerie Frewein-Kazakbaev, Vienna, Ausrtia
 * 2022 "Kurzfilmfestival Hamburg”, Hamburg, Germany
 * 2022 "Vienna Shorts”, Vienna, Ausria
 * 2022 "Flatpack festival” Birmingham, Uk
