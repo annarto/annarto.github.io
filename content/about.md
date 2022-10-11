@@ -20,7 +20,7 @@ Anna Vasof is an architect, media, and time-based artist. She studied architectu
 
 ## Artist Statement
 
-My work is accessible in a universal way via its wit and mischief. It is grounded in genuine experimentation of the core mechanisms of motion and time based art. I go to the heart of every question and start from zero, reinventing core premises with my own perspective. My Non-Stop Stop-Motion works reinvent  a contemporary expanded cinema and deal with the poetic mechanics of persistence of vision. My works with everyday objects (shoes, brooms, pots etc.) deal with social paradoxes and let us see a familiar world from a different perspective.
+My work is accessible in a universal way via its wit and mischief. It is grounded in genuine experimentation of the core mechanisms of motion and time based art. I go to the heart of every question and start from zero, reinventing core premises with my own perspective. My Non Stop Stop Motion works reinvent  a contemporary expanded cinema and deal with the poetic mechanics of persistence of vision. My works with everyday objects (shoes, brooms, pots etc.) deal with social paradoxes and let us see a familiar world from a different perspective.
 
 
 ## Education
