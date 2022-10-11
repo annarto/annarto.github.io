@@ -57,6 +57,9 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Solo Exhibitios
 
+* 2022 "Opening the Mind and Other Stories"| Anna Vasof, Ostfold Kunstsenter, Ostfold, Norway
+* 2022 "How do you move the Audience?" | Anna Vasof, bb15, Linz, Austria
+* 2022 "The Weight of Tears and other Looping Stories" | Anna Vasof, Neue Galerie Graz, Joanneumsviertel, Graz, Austria
 * 2022 "At Least I have my Phone" | Anna Vasof, Schauraum Angewandte - quartier 21 im MQ , Vienna
 * 2021 "A Real Exhibition in a Real Space" | Anna Vasof, Untitled Projects Gallery, Vienna
 * 2020 "Things and Wonders" | Anna Vasof, Tabor Veliki, Croatia
@@ -71,6 +74,15 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
+* 2022 Viennale, Vienna, Austria
+* 2022 "Aufwärts Fallen", OÖ Kunstverein, Linz, Austria
+* 2022 "Promenadologie / Die Welt hinter Schönbrunn", Vienna, Austria
+* 2022  INTERSECCIÓN. Contemporary Audiovisual Art Festival, A Coruña, Spain
+* 2022 EUREKA University Film Festival, Bogota, Colombia
+* 2022 DOXS RUHR 2022, Bochum, Germany
+* 2022, VIFF 2022, Vncouver, Canada
+* 2022 Taichung International Animation Festival, Taichung, Taiwan
+* 2022 "Upsala Short Film Festival”, Upsala, Schweden
 * 2022 "Animafest Zagreb”, Zagreb, Croatia
 * 2022 "Internationales Trickfilm-Festival Stuttgart”, Stuttgart, Germany
 * 2022 "This is Short 2022”, Online
