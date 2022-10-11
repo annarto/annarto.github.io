@@ -79,6 +79,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 * 2022 "Aufwärts Fallen", OÖ Kunstverein, Linz, Austria
 * 2022 "Promenadologie / Die Welt hinter Schönbrunn", Vienna, Austria
 * 2022  INTERSECCIÓN. Contemporary Audiovisual Art Festival, A Coruña, Spain
+* 2022 "Hedonisticka" DH5, Linz Austria
 * 2022 EUREKA University Film Festival, Bogota, Colombia
 * 2022 DOXS RUHR 2022, Bochum, Germany
 * 2022, VIFF 2022, Vncouver, Canada
