@@ -75,6 +75,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
 * 2022 Viennale, Vienna, Austria
+* 2022 "I hide my happiness" exhibition in allartnow/Stockholm, Sweden
 * 2022 "Aufwärts Fallen", OÖ Kunstverein, Linz, Austria
 * 2022 "Promenadologie / Die Welt hinter Schönbrunn", Vienna, Austria
 * 2022  INTERSECCIÓN. Contemporary Audiovisual Art Festival, A Coruña, Spain
