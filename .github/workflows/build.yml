@@ -62,6 +62,8 @@ jobs:
             --gc \
             --minify \
             #--baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Copy index.html as workaround because may be overridden by hugo
+        run: cp static/index.html index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
