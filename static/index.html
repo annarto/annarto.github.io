@@ -87,14 +87,17 @@
             text-decoration: underline;
         }
 
-        /*
-        @media only screen and (max-width: 550px) {
+        @media only screen and ((max-width: 550px) or (hover: none)) {
             body {
 			    font-size:1.2em;
             }
+            #links {
+                text-align:center;
+            }
 
             #links ul {
-                margin:auto;
+                display:inline-block;
+                text-align:left;
             }
 
             #links li {
@@ -105,8 +108,11 @@
             #links li span,  #links li:hover span {
                 position:unset;
                 display:inline;
+                line-height: 2em;
+                vertical-align: top;
             }
         }
+        /*
         */
 
 	</style>
