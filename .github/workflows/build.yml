@@ -1,5 +1,9 @@
 name: Deploy Hugo Page to Github Pages
 
+
+# Copied from here:
+# https://gohugo.io/hosting-and-deployment/hosting-on-github/
+
 on:
   push:
     branches:
