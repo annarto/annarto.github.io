@@ -32,6 +32,9 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Grants and Awards
 
+* 2023 Roanne Festival de Ciné Court Animé / FR - Experimental Grand Prix to "Issues with my other Half"
+* 2023 Gold Deer of Shorts Award for "Saving Some Random Insignificant Stories" at IFFA Independent Film Festival of Athens
+* 2022 Special Mention for Amazon Woman at IAFF TINDIRINDIS Festival Lithuania
 * 2022 George Manupelli Founder’s Spirit Award for "Amazon Woman" in Anna Arbor Film Festival 2022
 * 2022 Public Award  for "Amazon Woman" in Best Austrian Animation Festival 2022
 * 2021 Special mention “coup de cœur” for "Hitting my Head on the World" in RISC festival 2021
@@ -57,6 +60,8 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Solo Exhibitios
 
+* 2023 "Things and Wonders The Toy Collection", Wohlmut Galerie, Vienna, Austria
+* 2023 "I'm OK" Videoinstallation at Stadtbibliothek Stuttgart, Germany
 * 2022 "Opening the Mind and Other Stories"| Anna Vasof, Ostfold Kunstsenter, Ostfold, Norway
 * 2022 "How do you move the Audience?" | Anna Vasof, bb15, Linz, Austria
 * 2022 "The Weight of Tears and other Looping Stories" | Anna Vasof, Neue Galerie Graz, Joanneumsviertel, Graz, Austria
@@ -74,6 +79,10 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
+* 2023 49th Seattle International Film Festival, Seattle, USA
+* 2023 "Im Auge der Infodemie" exhibition in splace am Hauptplatz, Linz, Austria
+* 2023 Diagonale, Graz , Austria
+* 2023 "Fabric of Dreams" exhibition at ail_vienna, Austria
 * 2022 Viennale, Vienna, Austria
 * 2022 "I hide my happiness" exhibition in allartnow/Stockholm, Sweden
 * 2022 "Aufwärts Fallen", OÖ Kunstverein, Linz, Austria
