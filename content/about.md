@@ -32,7 +32,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Grants and Awards
 
-* 2023 Experimental Grand Prix to "Issues with my other Half" Roanne Festival de Ciné Court Animé / FR 
+* 2023 Experimental Grand Prix to "Issues with my other Half" Roanne Festival de Ciné Court Animé / France
 * 2023 Gold Deer of Shorts Award for "Saving Some Random Insignificant Stories" at IFFA Independent Film Festival of Athens
 * 2022 Special Mention for Amazon Woman at IAFF TINDIRINDIS Festival Lithuania
 * 2022 George Manupelli Founder’s Spirit Award for "Amazon Woman" in Anna Arbor Film Festival 2022
