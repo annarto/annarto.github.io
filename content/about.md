@@ -79,6 +79,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
+* 2023 20th IndieLisboa Film Festival, Lisbon Portugal
 * 2023 49th Seattle International Film Festival, Seattle, USA
 * 2023 "Im Auge der Infodemie" exhibition in splace am Hauptplatz, Linz, Austria
 * 2023 Diagonale, Graz , Austria
