@@ -82,11 +82,13 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
 * 2024 Diagonale, Graz Austria
-* 2024 Kinoathens Film Festival, Athens Greece
+* 2024 Kinoathens Film Festival, Athens, Greece
 * 2024 Filmfest,Dresden, Germany
 * 2024 Ex-Situ, exhibition Serajevo, Bosnia
 * 2024 Alchemy Film and Moving Image Festival, Scottland, UK
 * 2023 Image Forum Festival, Tokyo, Japan
+* 2023 Best Austrian Animation, Vienna, Austria
+* 2023 29th Athens International Film Festival, Athens, Greece
 * 2023 20th Viennashorts, Vienna Austria
 * 2023 20th IndieLisboa Film Festival, Lisbon Portugal
 * 2023 49th Seattle International Film Festival, Seattle, USA
