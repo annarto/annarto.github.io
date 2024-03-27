@@ -33,7 +33,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 ## Grants and Awards
 
 * 2023 Outstanding Artist Award (Experimental film) 2023 from the Federal Ministry of Education and Culture in Austria
-* Young Audience Award for "AMAZON WOMAN" from Rencontres Internationales Sciences & Cinémas (RISC 2023).
+* 2023 Young Audience Award for "AMAZON WOMAN" from Rencontres Internationales Sciences & Cinémas (RISC 2023).
 * 2023 Experimental Grand Prix to "Issues with my other Half" Roanne Festival de Ciné Court Animé / France
 * 2023 Special Award to "Issues with my other Half" at Viennashorts 2023 
 * 2023 Gold Deer of Shorts Award for "Saving Some Random Insignificant Stories" at IFFA Independent Film Festival of Athens
@@ -181,6 +181,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 * 2017 Diagonale, Graz, Austria
 * 2017 Videonalle 16, Bonn, Cermany
 * 2017 Stuttgarter Filmwinter, Stuttgard, Germany
+* 2016 Pro(s)thesis in der Gemäldegalerie der Akademie der bildenden Künste Wien, co-kuratiert von Berenice Pahl
 * 2016 Animateka, Liubliana, Slovenia
 * 2016 Viennale, Vienna, Austria
 * 2016 Video Installation in File Festival, Sao Paolo, Brasil
