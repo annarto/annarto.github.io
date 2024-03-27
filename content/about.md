@@ -43,22 +43,21 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 * 2021 Special mention “coup de cœur” for "Hitting my Head on the World" in RISC festival 2021
 * 2020 Best short film – Experimental award for "Hitting my Head on the World" in Lausanne underground film & music festival 2020
 * 2018 Peter Wilde Award for Most Technically Innovative Film for When Time Moves faster in Ann Arbor Film Festival 2018
-* 2017 Performancepreis H13
+* 2017 Austrian Performancepreis H13
 * 2017 Kunstlerhaus-Hubert Sielecki Preis 2017 for "Things and Wonders 2022"
 * 2016 Hubert Sielecki-Prize for the Austrian Animationsfilm in Tricky Women Festival
-* 2015 Audience Prize RISC 2015
-* 2014 Main Prize - ASIFA AUSTRIA AWARD / BEST AUSTRIAN ANIMATION 2014
+* 2015 Audience Award for “Down to Earth” RISC 2015 
+* 2014 Main Award for “Domino” - ASIFA AUSTRIA AWARD / BEST AUSTRIAN ANIMATION 2014
 * 2014 Nominated for OE1 Talentstipendium 2014
-* 2012 Annual Serving Cocktail Robot Award for the machine T.R.E.E. in Roboexotica (Festival for Cocktailrobotics in Vienna, Austria)
-* 2010 Representation of University of Thessaly  in Archiprix 2011 at the MIT with the diploma work Under Construction
+* 2010 Representation of University of Thessaly  in Archiprix 2011 at the MIT with the diploma work "Under Construction"
 * 2008 Price of Human rights for the movie No entry in Camera Zizanio festival (Olymbia,Greece)
 * 2008 Representation of Greece in Word expo the one minutes with the video Run for construction
 * 2008 1st price in Bene competion Vienna with the video Ben E.
-* 2008 Scholarship from Greek film center for the program first step
-* 2008 Representation of Greece in the Biennale of young artists Puglia 2008 with the video Artur’s Klaket and Animal’s War
-* 2006 Honorable price in Crash Fest with the video Animal’s war
-* 2004 2nd price in the festival Belle art in category video art with the video Home Homo
-* 2000 1st price in the national Student drawing contest in Greece
+* 2008 Scholarship from Greek Film Center for the program first step
+* 2008 Representation of Greece in the Biennale of young artists Puglia 2008 with the films "Artur’s Klaket" and "Animal’s War"
+* 2006 Honorable price in Crash Fest with the video "Animal’s War"
+* 2004 2nd price in the festival Belle art in category video art with the video "Home Homo"
+* 2000 1st price in the national School Student drawing contest in Greece
 
 
 ## Solo Exhibitios
@@ -82,9 +81,12 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
-* 
-* 2024 Kinoathens Film Festival, Athens Greece
 * 2024 Diagonale, Graz Austria
+* 2024 Kinoathens Film Festival, Athens Greece
+* 2024 Filmfest,Dresden, Germany
+* 2024 Ex-Situ, exhibition Serajevo, Bosnia
+* 2024 Alchemy Film and Moving Image Festival, Scottland, UK
+* 2023 Image Forum Festival, Tokyo, Japan
 * 2023 20th Viennashorts, Vienna Austria
 * 2023 20th IndieLisboa Film Festival, Lisbon Portugal
 * 2023 49th Seattle International Film Festival, Seattle, USA
@@ -99,12 +101,11 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 * 2022 "Hedonisticka" DH5, Linz Austria
 * 2022 EUREKA University Film Festival, Bogota, Colombia
 * 2022 DOXS RUHR 2022, Bochum, Germany
-* 2022, VIFF 2022, Vncouver, Canada
+* 2022, VIFF 2022, Vancouver, Canada
 * 2022 Taichung International Animation Festival, Taichung, Taiwan
 * 2022 "Upsala Short Film Festival”, Upsala, Schweden
 * 2022 "Animafest Zagreb”, Zagreb, Croatia
 * 2022 "Internationales Trickfilm-Festival Stuttgart”, Stuttgart, Germany
-* 2022 "This is Short 2022”, Online
 * 2022 "25th Gabrovo Biennal", Gabrovo, Bulgaria
 * 2022 "Kopflos sind wir alle" Galerie Frewein-Kazakbaev, Vienna, Ausrtia
 * 2022 "Kurzfilmfestival Hamburg”, Hamburg, Germany
