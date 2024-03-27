@@ -15,12 +15,12 @@ menu:        [ "main" ]
 
 ## General
 
-Anna Vasof is an architect, media, and time-based artist. She studied architecture at the University of Thessaly (2010) in Greece and Transmedia Art (2014) at the University of Applied Arts in Vienna. Since 2004 her videos and short movies have been presented in several festivals, some of them winning distinctions. In 2020 she finished her Ph.D. thesis about a cinematographic technique that she developed with the title Non Stop Stop Motion. She is now working on designing and building innovative mechanisms for producing critical videos, films, actions, and installations.
+Anna Vasof is an architect, media, and time-based artist. She studied architecture at the University of Thessaly (2010) in Greece and Transmedia Art (2014) at the University of Applied Arts in Vienna. Since 2004 her videos and short movies have been presented in several festivals, some winning distinctions. In 2020, she finished her Ph.D. thesis about a cinematographic technique she developed titled "Non Stop Stop Motion". She is now working on designing and building innovative mechanisms for producing critical videos, films, actions, and installations.
 
 
 ## Artist Statement
 
-My work is accessible in a universal way via its wit and mischief. It is grounded in genuine experimentation of the core mechanisms of motion and time based art. I go to the heart of every question and start from zero, reinventing core premises with my own perspective. My Non Stop Stop Motion works reinvent  a contemporary expanded cinema and deal with the poetic mechanics of persistence of vision. My works with everyday objects (shoes, brooms, pots etc.) deal with social paradoxes and let us see a familiar world from a different perspective.
+My work is accessible in a universal way via its wit and mischief. It is grounded in genuine experimentation of the core mechanisms of motion and time-based art. I go to the heart of every question and start from zero, reinventing core premises with my own perspective. My Non Stop Stop Motion works reinvent  a contemporary expanded cinema and deal with the poetic mechanics of persistence of vision. My works with everyday objects (shoes, brooms, pots etc.) deal with social paradoxes and let us see a familiar world from a different perspective.
 
 
 ## Education
