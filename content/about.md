@@ -33,7 +33,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 ## Grants and Awards
 
 * 2023 Outstanding Artist Award (Experimental film) 2023 from the Federal Ministry of Education and Culture in Austria
-* 2023 Young Audience Award for "AMAZON WOMAN" from Rencontres Internationales Sciences & Cinémas (RISC 2023).
+* 2023 Young Audience Award for "AMAZON WOMAN" from Rencontres Internationales Sciences & Cinémas (RISC 2023)
 * 2023 Experimental Grand Prix to "Issues with my other Half" Roanne Festival de Ciné Court Animé / France
 * 2023 Special Award to "Issues with my other Half" at Viennashorts 2023 
 * 2023 Gold Deer of Shorts Award for "Saving Some Random Insignificant Stories" at IFFA Independent Film Festival of Athens
