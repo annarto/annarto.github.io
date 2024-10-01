@@ -82,7 +82,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
-* 2024 Installation by PMIT Gallery, Melbourne, Australia
+* 2024 Installation by RMIT Gallery, Melbourne, Australia
 * 2024 Installation by File Festival, Sao Paolo, Brazil
 * 2024 Diagonale, Graz Austria
 * 2024 Kinoathens Film Festival, Athens, Greece
