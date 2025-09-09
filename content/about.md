@@ -82,6 +82,19 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
+* 2025 Installation by the Exhibition After Laughter, Budapest, Ungarn
+* 2025 Aufräumen, Group Exhibition, Moers, Germany
+* 2025 Route Panoramique festival, Normandy, France
+* 2025 Banality Control Exhibition, Dortmund, Germany
+* 2025 Animatex Film Festival, Cairo, Egypt
+* 2025 Forensics Deeps Group Exhibition, Vienna Austria
+* 2025 This human world – international human rights film festival, Vienna Austria
+* 2025 Crossing Europe Film Festival, Linz Austria
+* 2025 MakeDox Festival, Skopje, Macedonia
+* 2025 Linz Short Film Festival, Linz, Austria
+* 2025 48th Drama International Short Film Festival, Drama Greece
+* 2025 Salon Souterrain: Nowtopia Performance Wuk, Vienna Austria
+* 2025 Installation by Momus, Thessaloniki, Greece
 * 2024 Installation by RMIT Gallery, Melbourne, Australia
 * 2024 Installation by File Festival, Sao Paolo, Brazil
 * 2024 Diagonale, Graz Austria
