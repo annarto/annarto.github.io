@@ -32,7 +32,9 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Grants and Awards
 
-* 2024 Honorable Award of Best Experimental Film (Festival of Nations 2024) 
+* 2026 Best Short Film for 3cm of Complexity in Punto de Vista 2026
+* 2026 Honorable Mention for 3cm of Complexity in Diagonale 2026
+* 2024 Honorable Award of Best Experimental Film (Amazon Woman) (Festival of Nations 2024) 
 * 2023 Outstanding Artist Award (Experimental film) 2023 from the Federal Ministry of Education and Culture in Austria
 * 2023 Young Audience Award for "AMAZON WOMAN" from Rencontres Internationales Sciences & Cinémas (RISC 2023)
 * 2023 Experimental Grand Prix to "Issues with my other Half" Roanne Festival de Ciné Court Animé / France
@@ -82,6 +84,15 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
+* 2026 Vienna Shorts Vienna
+* 2026 Punto de Vista Spain
+* 2026 Crossing Europe Linz
+* 2026 Ficci 65 Cartagena, Colombia
+* 2026 SeeFest Los Angeles, California
+* 2026 Diagonale Film Festival, Graz, Austria
+* 2026 Exhibition Against the Playbook White House Vienna, Austria
+* 2026 Rotterdam Film Festival, Rotterdam, Netherlands
+* 2025 Drama Film Festival 2025, Drama, Greece
 * 2025 Installation by the Exhibition After Laughter, Budapest, Ungarn
 * 2025 Aufräumen, Group Exhibition, Moers, Germany
 * 2025 Route Panoramique festival, Normandy, France
