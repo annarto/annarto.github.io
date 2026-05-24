@@ -86,6 +86,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 * 2026 Vienna Shorts Vienna
 * 2026 Punto de Vista Spain
+* 2016 Exhibition in Automatic Gallery Sofia, Bulgaria
 * 2026 Crossing Europe Linz
 * 2026 Ficci 65 Cartagena, Colombia
 * 2026 SeeFest Los Angeles, California
