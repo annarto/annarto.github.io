@@ -84,6 +84,7 @@ My work is accessible in a universal way via its wit and mischief. It is grounde
 
 ## Individual participation in Exhibitions/Festivals/Conferences**
 
+* 2026 dotdotdot festival, Vienna Austria
 * 2026 Vienna Shorts Vienna
 * 2026 Punto de Vista Spain
 * 2026 Exhibition in Automatic Gallery Sofia, Bulgaria
